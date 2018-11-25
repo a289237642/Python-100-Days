@@ -1,4 +1,4 @@
-## Python - 100天从新手到大师
+## Python - 100 days from novice to master
 
 > 作者：骆昊
 
